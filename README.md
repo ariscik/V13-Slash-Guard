@@ -18,12 +18,11 @@ Slash komutlar kullanılarak yapılmıştır. Altyapının boş hali Respect e a
 
 # Bot Resimleri
 
-![image](https://cdn.discordapp.com/attachments/956549145454313503/969172751476752404/1.PNG)
-![image](https://cdn.discordapp.com/attachments/956549145454313503/969172752969900032/2.PNG)
-![image](https://cdn.discordapp.com/attachments/956549145454313503/969172751678074940/3.PNG)
-![image](https://cdn.discordapp.com/attachments/956549145454313503/969172751900352532/4.PNG)
-![image](https://cdn.discordapp.com/attachments/956549145454313503/969172752118472725/5.PNG)
-![image](https://cdn.discordapp.com/attachments/956549145454313503/969172752340766740/6.PNG)
-![image](https://cdn.discordapp.com/attachments/956549145454313503/969172752546279464/7.PNG)
-![image](https://cdn.discordapp.com/attachments/956549145454313503/969172752760205352/8.PNG)
+![image](https://cdn.discordapp.com/attachments/956549147538911302/969173780020752384/1.PNG)
+![image](https://cdn.discordapp.com/attachments/956549147538911302/969173924476751882/2.PNG)
+![image](https://cdn.discordapp.com/attachments/956549147538911302/969173987311624202/3.PNG)
+![image](https://cdn.discordapp.com/attachments/956549147538911302/969174052822462514/4.PNG)
+![image](https://cdn.discordapp.com/attachments/956549147538911302/969174104840208384/5.PNG)
+![image](https://cdn.discordapp.com/attachments/956549147538911302/969174272952111114/6.PNG)
+![image](https://cdn.discordapp.com/attachments/956549147538911302/969174312064024616/7.PNG)
 
