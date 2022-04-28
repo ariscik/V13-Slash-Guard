@@ -10,6 +10,11 @@ Config dosyasını doldurmanız yeterli olacaktır. Projenin geliştirilmesi siz
 
 Slash komutlar kullanılarak yapılmıştır. Altyapının boş hali Respect e aittir. Eventleri kopyalayıp çoğaltabilirsiniz. Şuan ki haliyle ilgili bir hatayla karşılaşırsanız Aris Lesnar#1953 iletişime geçebilirsiniz. 
 
+- Otomatik yetki kapatma
+- Yetkilerin tüm izinlerini dataya kaydedip yetkileri açarken otomatik açma imkanı
+- Loglama, rol, kanal kurma özellikleri
+- Butonlar ile backup alma ( tüm - kanal - rol )
+
 
 # Bot Resimleri
 
