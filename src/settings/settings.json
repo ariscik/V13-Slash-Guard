@@ -1,0 +1,12 @@
+{
+    "guild": {
+        "id": "",
+        "log": ""
+    },
+    "bot": {
+        "owner": "",
+        "token": "",
+        "tokens": ["",""],
+        "mongo": ""
+    }
+}
